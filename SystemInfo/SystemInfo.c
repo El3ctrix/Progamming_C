@@ -59,7 +59,7 @@
 void winSystem()
 {
 	long nprocs = -1;
-    long nprocs_max = -1;
+    	long nprocs_max = -1;
 	#ifdef _WIN32
 	SYSTEM_INFO info;
 	GetSystemInfo(&info);
