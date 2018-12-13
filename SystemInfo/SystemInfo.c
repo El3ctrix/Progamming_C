@@ -125,7 +125,7 @@ void unxSystem()
 }
 
 /** 
- * Funcion main, lo unico que hace es verificar que los valores de los Macros de las diferentes plataformas.
+ * Funcion main, lo unico que hace es verificar los valores de los Macros de las diferentes plataformas.
  *@return 0
  */
 int main()
